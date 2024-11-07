@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header{
+  margin-block: 10px;
+}
+h1{
+  text-align: center;
+  font-size: 2.5rem;
+  color: #273ada;
+}
+
+.contenedor-tabs{
+  display: flex;
+}
+
+div.tab{
+  padding: 10px;
+  background-color: #052c38;
+  margin-right: 2px;
+}
+a.tab-e{
+  text-decoration: none;
+  color: #27afda;
+  font-size: 20px;
+  display: inline-block;
+}
