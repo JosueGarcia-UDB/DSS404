@@ -38,12 +38,12 @@
           $diasVividos = $diferencia->days;
 
           echo "<h3 class='mt-4 text-center'>Su edad es: $edad años</h3>";
-          echo "<h3 class='text-center'>El número de días que ha vivido es: <strong class='text-primary'>$diasVividos días</strong></h3>";
+          echo "<h3 class='alert alert-info mt-3'>El número de días que ha vivido es: <strong class='text-primary'>$diasVividos días</strong></h3>";
         } else {
-          echo "<h3 class='text-center text-danger'>Formato de fecha inválido.</h3>";
+          echo "<h3 class='alert alert-danger mt-3'>Formato de fecha inválido.</h3>";
         }
       } else {
-        echo "<h3 class='mt-4 text-center text-danger'>Por favor, ingrese una fecha válida.</h3>";
+        echo "<h3 class='alert alert-danger mt-3'>Por favor, ingrese una fecha válida.</h3>";
       }
     }
     ?>
