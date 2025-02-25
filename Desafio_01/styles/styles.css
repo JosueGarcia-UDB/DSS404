@@ -1,0 +1,224 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 1200px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+}
+
+main{
+    flex: 1;
+}
+.titlePrimes {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-block: 2rem;
+    color: #007bff;
+}
+
+.formPrimes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.formPrimes input {
+    padding: 0.3rem;
+    border-radius: 0.5rem;
+    border: 1px solid #007bff;
+    font-size: 1.5rem;
+}
+
+.formPrimes button {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: #007bff;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    cursor: pointer;
+}
+
+.formPrimes button:hover {
+    background-color: rgb(9, 37, 177);
+}
+
+.formPrimes label {
+    font-size: 1.5rem;
+}
+
+.tablePrimes {
+    width: 42%;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    margin: auto;
+    margin-block: 50px;
+}
+
+.tablePrimes thead {
+    background-color: #007bff;
+    color: white;
+}
+
+.tablePrimes th {
+    padding: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.tablePrimes td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.tablePrimes tbody tr:hover {
+    background-color: #f1f1f1;
+    transition: background-color 0.3s ease;
+}
+
+.tablePrimes tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.tablePrimes tbody tr:nth-child(odd) {
+    background-color: white;
+}
+
+.tablePrimes tbody tr:hover {
+    background-color: #e0e0e0;
+}
+
+.tablePrimes tbody td {
+    border-bottom: 1px solid #ddd;
+}
+
+.tablePrimes tbody tr:last-child td {
+    border-bottom: none;
+}
+
+footer {
+    text-align: center;
+    font-weight: 700;
+    background-color: #606060;
+    color: white;
+    padding: 1rem;
+}
+/* Estilos generales */
+body.alum-body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Estilos para el formulario */
+.alum-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 50%;
+    margin: 0 auto;
+}
+
+.alum-container {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.alum-container h3 {
+    margin-top: 0;
+    color: #555;
+}
+
+.alum-input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.alum-input:focus {
+    border-color: #66afe9;
+    outline: none;
+    box-shadow: 0 0 8px rgba(102, 175, 233, 0.6);
+}
+
+.alum-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.alum-button:hover {
+    background-color: #45a049;
+}
+
+/* Estilos para la tabla de resultados */
+.alum-table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.alum-table th, .alum-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.alum-table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.alum-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.alum-table td.aprobado {
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+.alum-table td.reprobado {
+    color: #f44336;
+    font-weight: bold;
+}
+
+/* Estilos para el mensaje de error */
+.error {
+    color: #f44336;
+    font-weight: bold;
+    text-align: center;
+}
