@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5f41427-9b3d-4a5b-be0b-3dc47f0f57d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Desafio_01/Ejercicio_03/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio_01/Ejercicio_03/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio_01/Ejercicio_03/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafio_01/Ejercicio_02/proceso.php" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio_01/Ejercicio_02/proceso.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafio_01/Ejercicio_02/resultado.php" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio_01/Ejercicio_02/resultado.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafio_01/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio_01/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Complementario_01/js/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Complementario_01/js/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Complementario_01/numeros.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Complementario_01/numeros.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Complementario_01/response.php" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Complementario_01/response.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_01/entrada.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_01/entrada.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_01/tabla.php" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_01/tabla.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_02/fibonacci.php" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_02/fibonacci.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_03/edades.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_03/edades.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_03/promedioedad.php" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_03/promedioedad.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_04/destinos.php" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_04/destinos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_04/selectfields.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_04/selectfields.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_05/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_05/content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_05/footer.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_05/footer.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_05/header.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_05/header.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_05/nav.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_05/nav.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_05/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_05/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guia_04/Ejercicio_05/sitio.php" beforeDir="false" afterPath="$PROJECT_DIR$/Guia_04/Ejercicio_05/sitio.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.3.13_1/bin/php" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2tYORNIbxTyNTV4OkzSFKoWAP0s" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Desafio_01/styles" />
+      <recent name="$PROJECT_DIR$/Desafio_01/Ejercicio_02" />
+      <recent name="$PROJECT_DIR$/Desafio_01/Ejercicio_01" />
+      <recent name="$PROJECT_DIR$/Desafio_01" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23726.107" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23726.107" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5f41427-9b3d-4a5b-be0b-3dc47f0f57d0" name="Changes" comment="" />
+      <created>1740525532133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740525532133</updated>
+      <workItem from="1740525533513" duration="4632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../styles/styles.css">
     <title>Document</title>
 </head>
-<body class="alum-body">
+<body class="body-results">
     <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $num_alumnos = isset($_POST['num_alumnos']) ? intval($_POST['num_alumnos']) : 0;
@@ -40,6 +40,7 @@
         }
 
         echo "</table>";
+        echo "<a class='btn-volver' href='index.html'>Volver</a>";
     } else {
         echo "<p>Error al procesar los datos.</p>";
     }
